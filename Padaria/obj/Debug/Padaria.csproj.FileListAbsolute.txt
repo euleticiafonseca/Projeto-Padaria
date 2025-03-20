@@ -13,3 +13,5 @@ C:\Users\leticia.fsbento\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\D
 C:\Users\leticia.fsbento\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\aa\Padaria.resources.dll
 C:\Users\leticia.fsbento\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.exe
 C:\Users\leticia.fsbento\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.pdb
+C:\Users\leticia.fsbento\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmFuncionarios.resources
+C:\Users\leticia.fsbento\Documents\Visual Studio 2022\EmpresaTDS01\Padaria\obj\Debug\Padaria.frmPesquisarFuncionarios.resources
